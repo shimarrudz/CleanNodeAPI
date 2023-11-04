@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/shimarrudz/CleanNodeAPI/issues"
   },
-  "homepage": "https://github.com/shimarrudz/CleanNodeAPI#readme"
+  "homepage": "https://github.com/shimarrudz/CleanNodeAPI#readme",
+  "devDependencies": {
+    "@types/node": "^20.8.10",
+    "typescript": "^5.2.2"
+  }
 }
