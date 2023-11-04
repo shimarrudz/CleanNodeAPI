@@ -19,6 +19,8 @@
   "homepage": "https://github.com/shimarrudz/CleanNodeAPI#readme",
   "devDependencies": {
     "@types/node": "^20.8.10",
+    "husky": "^8.0.3",
+    "lint-staged": "^15.0.2",
     "typescript": "^5.2.2"
   },
   "dependencies": {
