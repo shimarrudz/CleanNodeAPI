@@ -1,5 +1,7 @@
 # CleanNodeAPI
 
+https://github.com/rmanguinho/clean-ts-api/raw/master/public/img/logo-course.png
+
 # 📚 Complete Course Link
 This API is part of instructor Rodrigo Manguinho (Mango)'s training on Udemy.
 
