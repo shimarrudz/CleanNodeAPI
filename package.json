@@ -1,0 +1,20 @@
+{
+  "name": "cleannodeapi",
+  "version": "1.0.0",
+  "description": "![README Photo](https://github.com/rmanguinho/clean-ts-api/raw/master/public/img/logo-course.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shimarrudz/CleanNodeAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shimarrudz/CleanNodeAPI/issues"
+  },
+  "homepage": "https://github.com/shimarrudz/CleanNodeAPI#readme"
+}
