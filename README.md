@@ -1,5 +1,7 @@
 # CleanNodeAPI
 
+![README Photo](https://github.com/rmanguinho/clean-ts-api/raw/master/public/img/logo-course.png)
+
 https://github.com/rmanguinho/clean-ts-api/raw/master/public/img/logo-course.png
 
 # 📚 Complete Course Link
