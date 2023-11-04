@@ -4,7 +4,7 @@
   "description": "![README Photo](https://github.com/rmanguinho/clean-ts-api/raw/master/public/img/logo-course.png)",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch"
   },
   "repository": {
     "type": "git",
