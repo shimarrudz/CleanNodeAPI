@@ -23,8 +23,10 @@
   },
   "homepage": "https://github.com/shimarrudz/CleanNodeAPI#readme",
   "devDependencies": {
+    "@shelf/jest-mongodb": "^4.2.0",
     "@types/bcrypt": "^5.0.2",
     "@types/jest": "^29.5.7",
+    "@types/mongodb": "^4.0.7",
     "@types/node": "^20.8.10",
     "@types/validator": "^13.11.7",
     "husky": "^8.0.3",
