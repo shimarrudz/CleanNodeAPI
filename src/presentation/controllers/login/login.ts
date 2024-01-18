@@ -4,7 +4,7 @@ import { type HttpRequest, type Controller, type HttpResponse } from '../../prot
 
 export class LoginController implements Controller {
   async handle (httpRequest: HttpRequest): Promise<HttpResponse> {
-    if ()
+    if ("")
     return await new Promise(resolve => { resolve(badRequest(new MissingParamError('email'))) })
   }
 }
