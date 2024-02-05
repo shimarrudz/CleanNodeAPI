@@ -1,9 +1,7 @@
 import { MissingParamError } from '../../errors'
 import { type Validation } from '../../protocols/validation'
 export class RequiredFieldsValidation implements Validation {
-  private readonly fieldName: string
-
-  constructor (fieldName: string) {
+  constructor (private readonly fieldName: string) {
     this.fieldName = fieldName
   }
 
