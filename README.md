@@ -42,7 +42,7 @@ APIs built in the training include:
 - Small Commits
 
 ## 🏗️ Design Patterns
-- Factory
+- Factory Method
 - Adapter
 - Composite
 - Decorator
