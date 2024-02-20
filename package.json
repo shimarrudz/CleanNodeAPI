@@ -4,8 +4,9 @@
   "description": "![README Photo](https://github.com/rmanguinho/clean-ts-api/raw/master/public/img/logo-course.png)",
   "main": "index.js",
   "scripts": {
-    "start": "sucrase-node src/main/server.ts",
+    "start": "node dist/main/server.ts",
     "build": "rimraf dist && tsc",
+    "debug": "node --inspect=0.0.0.0:9222 --nolazy dist/main/server.ts",
     "up": "npm run build && docker-compose up -d",
     "stop": "docker-compose down",
     "test": "jest --watch --silent --noStackTrace --runInBand",
