@@ -1,6 +1,6 @@
 {
   "name": "cleannodeapi",
-  "version": "1.0.0",
+  "version": "1.2.3",
   "description": "![README Photo](https://github.com/rmanguinho/clean-ts-api/raw/master/public/img/logo-course.png)",
   "main": "index.js",
   "scripts": {
